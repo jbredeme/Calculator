@@ -4,7 +4,7 @@ This is a simple Android Calculator application. Performs basic arithmetic opera
 
 ## Usage
 ```c
-3 + 15.25 / 2.0 = 33.50
+3 + 15.25 * 2.0 = 33.50
 ```
-## Screenshot
+## Screenshots
 <img src="https://github.com/jbredeme/Calculator/blob/master/Screenshots/screenshot01.jpg" width="256"> <img src="https://github.com/jbredeme/Calculator/blob/master/Screenshots/screenshot02.jpg" width="256">
