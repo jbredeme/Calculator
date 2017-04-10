@@ -7,4 +7,4 @@ This is a simple Android Calculator application. Performs basic arithmetic opera
 3 + 15.25 * 2.0 = 33.50
 ```
 ## Screenshots
-<img src="https://github.com/jbredeme/Calculator/blob/master/Screenshots/screenshot01.jpg" width="256"> <img src="https://github.com/jbredeme/Calculator/blob/master/Screenshots/screenshot02.jpg" width="256">
+<img src="https://github.com/jbredeme/Calculator/blob/master/screenshots/device-2017-03-29-085750.jpg" width="256"> <img src="https://github.com/jbredeme/Calculator/blob/master/screenshots/device-2017-03-29-085947.jpg" width="256">
