@@ -12,10 +12,10 @@ This is a simple Android Calculator application. Performs basic arithmetic opera
 ## Built With
 * [Android Studio] release 2.3.1
 * [Java SE Development Kit] release 8u131
-* Windows 10 Professional platform
+* Windows 10 Professional
 
 ## Author
-* **Jarid Bredemeier** - *Initial work*
+* **Jarid Bredemeier**
 
 [Android Studio]: https://developer.android.com/studio/index.html
 [Java SE Development Kit]: http://www.oracle.com/technetwork/java/index.html
